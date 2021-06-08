@@ -8,6 +8,10 @@ body {
     text-align: center;
 }
 
+section {
+    margin-top: 20px;
+}
+
 h1 {
     font-family: Verdana;
     font-size: 50px;
@@ -26,7 +30,13 @@ h3 {
     color: gray;
 }
 
+
+
 .download-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+#copyright {
+    text-align: right;
 }
